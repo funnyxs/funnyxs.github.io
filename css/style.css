@@ -1,0 +1,28 @@
+* {
+    padding: 10px;
+    margin: 10px;
+    /*background-image: url(/assets/img/a-boy-his-dog-watch-full-globe-from-the-top-of-there-bus-on-forest-night-wallpaper-1920x1080_48.jpg);*/
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    max-width: 100%;
+    height: auto;
+}
+body {
+     background-image: url(/assets/img/alone-crying-girl-wallpaper-1920x1080_48.jpg);
+     background-size: cover;
+     background-position: center center;
+     background-attachment: fixed;
+     max-width: 100%;
+     height: auto;
+}
+.title {
+    font-size: 4vw;
+    font-family: Nosifer Caps;
+    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    max-width: 100%;
+    max-height: auto;
+    border-radius: 60px;
+    backdrop-filter: blur(10px);
+}
